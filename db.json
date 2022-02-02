@@ -1,0 +1,25 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "text": "Alter Bridge Concert",
+      "place": "Cologne, Germany",
+      "date": "8th Feb 2022 @ 8pm",
+      "reminder": true
+    },
+    {
+      "text": "Football Game",
+      "date": "15th Feb @ 7pm",
+      "place": "Islamabad, Pakistan",
+      "reminder": "",
+      "id": 2
+    },
+    {
+      "text": "Company Dinner",
+      "date": "1st March @ 8pm",
+      "place": "Marriot, Islamabad",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
