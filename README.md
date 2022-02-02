@@ -23,9 +23,9 @@ The build is minified and the filenames include the hashes.\
 The app is ready to be deployed!
 
 ## Deploy on a static server
-You can deploy the app on a static server
+You can deploy the app on a static server \
 ### `npm i -g serve`
-and then 
+and then \
 ### `serve -s build -p PORT`
-Replace PORT with port number for example 8000
+Replace PORT with port number for example 8000.\
 The app can then be accessed on that port in your browser. 
