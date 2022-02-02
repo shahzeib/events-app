@@ -3,6 +3,9 @@ This app is a React App that can be used for tracking events. The user can add, 
 
 ## How to Use
 
+## Install dependencies
+### `npm install`
+
 ## Run the development server for React 
 ### `npm start`
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -25,3 +28,4 @@ You can deploy the app on a static server
 and then 
 ### `serve -s build -p PORT`
 Replace PORT with port number for example 8000
+The app can then be accessed on that port in your browser. 
